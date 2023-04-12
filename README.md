@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Loisyy
-- 👀 I’m interested in UI/UX
-- 🌱 I’m currently learning web development 
-- 💞️ I’m looking to collaborate on design projects 
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning software engineering
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me linkedin.com/in/nkeirulois
 
 <!---
