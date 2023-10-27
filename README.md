@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Loisyy
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning software engineering
+- 👀 Fashion Meta verse designer 
+- 🌱 software engineer/developer 
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me linkedin.com/in/nkeirulois
 
