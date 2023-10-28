@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Loisyy
-- 👀 Fashion Meta verse designer 
+- 👀 Fashion Metaverse designer 
 - 🌱 software engineer/developer 
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me linkedin.com/in/nkeirulois
