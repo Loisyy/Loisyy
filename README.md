@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Loisyy
+- 👋 Hi, I’m Lois Nkeiru
 - 👩‍💻 Software developer 
 - 💁‍♀️ passionate frontend developer with a strong interest in design
 - 👉 Leveraging my skills in technology and creativity
